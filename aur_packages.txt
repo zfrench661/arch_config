@@ -1,0 +1,7 @@
+durdraw 0.29.0-2
+ffmpeg2.8 2.8.22-1
+grok-cli 1.2.0-1
+preload 0.6.4-9
+visual-studio-code-bin 1.100.3-1
+yay 12.5.0-1
+yay-debug 12.5.0-1
